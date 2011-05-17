@@ -8,13 +8,13 @@ This is a very simple script to email a directory of files in chunks..
 
 `cd /Wherever/you/like`
 
-If you have git installed:
+1. If you have git installed
 
-1. `git clone https://boxofrad@github.com/leopard-business-solutions/spam-a-lot.git`
+    `git clone https://boxofrad@github.com/leopard-business-solutions/spam-a-lot.git`
 
-If you do not have git installed:
-
-1. make a directory and download [this file](https://github.com/leopard-business-solutions/spam-a-lot/raw/master/spamalot.rb) into it
+  If you do not have git installed:
+    
+    make a directory and download [this file](https://github.com/leopard-business-solutions/spam-a-lot/raw/master/spamalot.rb) into it.
 
 2. `cd /Path/to/directory`
 
