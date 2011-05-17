@@ -14,7 +14,7 @@ class Spamalot
     # Clear the terminal
     system("clear")
 
-    puts "Spamalot by Daniel Upton (daniel@ileopard.co)"
+    puts "Spam-a-lot by Daniel Upton (daniel@ileopard.co)"
     puts "[Control - C] to quit"
     puts # Keep the screen tidy!
 
