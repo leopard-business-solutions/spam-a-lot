@@ -79,7 +79,7 @@ class Spamalot
     offset = 0
     emails = 1
     while offset < options.count
-      files = options[offset..(offset + at_once)]
+      files = options[offset...(offset + at_once)]
       email(send_to, send_from, "#{subject} ##{emails}", files, done_directory)
       offset += (at_once + 1)
       emails += 1
